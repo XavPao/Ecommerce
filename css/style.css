@@ -22,6 +22,12 @@ Valentin
     object-fit: cover;
 }
 
+.breadcrumb {
+    background: #c5c5c5;
+    padding: 1rem;
+
+}
+
 /********** STYLE DES CARDS / LISTE DE PRODUITS **********/
 
 .card {
